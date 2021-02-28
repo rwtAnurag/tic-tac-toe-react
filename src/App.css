@@ -1,0 +1,29 @@
+body{
+  background: rgb(178, 195, 211);
+}
+.header{
+  background-color: #fff;
+}
+.gameBoard{
+    height: 75vh;
+   
+}
+.game-square{
+  width: 33.33%;
+  height: 33.33%;
+  
+    
+}
+.bt{
+  border-top:5px solid #09f !important;
+}
+.bb{
+  border-bottom:5px solid #09f !important;
+}
+.bsb{
+  border-left:5px solid #09f !important;
+  border-right:5px solid #09f !important;
+}
+.x10{
+  font-size: 5rem;
+}
